@@ -33,14 +33,14 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves crea
 ## 🔗 **Links & Contact**
 
 - 🔗 [Portfolio Website](#) *(Coming Soon)*
-- 🔓 [LinkedIn](https://linkedin.com/in/jeeinhere)
-- 📧 Email: [jeeinhere@gmail.com](mailto:jeeinhere@gmail.com)
+- 🔓 [LinkedIn](https://www.linkedin.com/in/jeein-park-36498829a)
+- 📧 Email: [jeeinhere@gmail.com](mailto:1700pji@naver.com)
 
 ---
 
 ## 📊 **GitHub Stats**
 
-![Jeein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeeinhere&show_icons=true&theme=radical)
+![Jeein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeeIn-Park&show_icons=true&theme=radical)
 
 ---
 
