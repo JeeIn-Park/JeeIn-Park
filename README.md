@@ -1,7 +1,5 @@
 # Hi there, I'm Jeein Park 👋
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 Welcome to my GitHub profile! I'm a passionate 💻 software developer who loves creating ✨ innovative applications and solving 🔍 complex problems. Here's a bit about me: 🌟🌟🌟
 
 ---
@@ -16,17 +14,19 @@ Welcome to my GitHub profile! I'm a passionate 💻 software developer who loves
 
 ### 🛠️ Tools & Technologies
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Golang](https://img.shields.io/badge/Golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Prolog](https://img.shields.io/badge/Prolog-%23E0004D.svg?style=for-the-badge&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white&labelColor=3ea1b5&fontWeight=bold)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=fabf0c)
+![Kotlin](https://img.shields.io/badge/Kotlin-%238b4fe0.svg?style=flat&logo=kotlin&logoColor=ff9729)
+![Dart](https://img.shields.io/badge/Dart-%230366a8.svg?style=flat&logo=dart&logoColor=5ebeff)
+![Flutter](https://img.shields.io/badge/Flutter-%234eb0f2.svg?style=flat&logo=flutter&logoColor=02569B)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%233eb051.svg?style=flat&logo=jetpack-compose&logoColor=434dd9)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=f5d9ba)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=b3d3e8)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=b3d3e8)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-%23ff8563.svg?style=flat&logo=html5&logoColor=3870ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23333634.svg?style=flat&logo=javascript&logoColor=F7DF1E)
+![Prolog](https://img.shields.io/badge/Prolog-%234164b0.svg?style=flat&logoColor=white&labelColor=fa530c&fontWeight=bold)
+![Haskell](https://img.shields.io/badge/Haskell-%235D4F85.svg?style=flat&logo=haskell&logoColor=d8b6f0)
 
 
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -78,6 +78,10 @@ Welcome to my GitHub profile! I'm a passionate 💻 software developer who loves
 - 📧 Email: [jeeinhere@gmail.com](mailto:jeeinhere@gmail.com)
 
 ---
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 ## 📊 **GitHub Stats** 🌟🌟🌟
 
