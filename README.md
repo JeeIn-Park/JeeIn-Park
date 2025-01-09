@@ -28,6 +28,22 @@ Welcome to my GitHub profile! I'm a passionate 💻 software developer who loves
 ![Prolog](https://img.shields.io/badge/Prolog-%23E0004D.svg?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow)
 
+
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-%230065A9.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-%23999999.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+
+
+![Recipe Book Making](https://img.shields.io/badge/Recipe%20Book%20Making-%23FFA500.svg?style=for-the-badge&logo=book&logoColor=white) 📖🍳
+![Up-cycling](https://img.shields.io/badge/Up--cycling-%238B4513.svg?style=for-the-badge&logo=recycle&logoColor=white) ♻️🪚
+![Spice Jar Decorating](https://img.shields.io/badge/Spice%20Jar%20Decorating-%23D2691E.svg?style=for-the-badge&logo=paintbrush&logoColor=white) 🌶️🎨
+![Self-Development Book Reading](https://img.shields.io/badge/Self--Development%20Book%20Reading-%23008B8B.svg?style=for-the-badge&logo=open-book&logoColor=white) 📚🌟
+![Thinking](https://img.shields.io/badge/Thinking-%238A2BE2.svg?style=for-the-badge&logo=brain&logoColor=white) 🤔💭
+
 ---
 
 ## 🌟 **Highlighted Projects** 🌟🌟🌟
