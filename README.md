@@ -9,13 +9,14 @@ Welcome to my GitHub profile! I'm a passionate 💻 software developer who loves
 ## 🔧 **About Me**
 
 - 🔎 **Exploring:** 📱 Android and Flutter development, backend systems, and 🤖 AI/ML applications.
-- 📊 **Skills:** 🛠️ Kotlin, Dart, Flutter, Java, Golang, C++, Firebase, AWS, and more.
 - 🚀 **Currently Working On:** 🌐 Building a portfolio website and a Discord bot with 🖼️ computer vision.
 - ⚛️ **Goal:** Combine 🎨 creativity and 🖥️ tech to build impactful 💡 software solutions.
 - ✍️ **Interests:** 📲 App development, 🎮 VR/AR, and 🏚️ property refurbishment. ✨✨✨
 
 ### 🛠️ Tools & Technologies
 
+- 📊 **Skills:** 🛠️ Kotlin, Dart, Flutter, Java, Golang, C++, Firebase, AWS, and more.
+  
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
