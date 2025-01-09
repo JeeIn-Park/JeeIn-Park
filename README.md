@@ -11,6 +11,15 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves crea
 - 🚀 **Currently Working On:** Building a portfolio website and a Discord bot with computer vision.
 - ⚛️ **Goal:** Combine creativity and tech to build impactful software solutions.
 - ✍️ **Interests:** App development, VR/AR, and property refurbishment.
+- 
+### 🛠️ Tools & Technologies
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
