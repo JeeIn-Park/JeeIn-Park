@@ -9,21 +9,24 @@ Welcome to my GitHub profile! I'm a passionate 💻 software developer who loves
 ## 🔧 **About Me**
 
 - 🔎 **Exploring:** 📱 Android and Flutter development, backend systems, and 🤖 AI/ML applications.
+- 📊 **Skills:** 🛠️ Kotlin, Dart, Flutter, Java, Golang, C++, Firebase, AWS, and more.
 - 🚀 **Currently Working On:** 🌐 Building a portfolio website and a Discord bot with 🖼️ computer vision.
 - ⚛️ **Goal:** Combine 🎨 creativity and 🖥️ tech to build impactful 💡 software solutions.
 - ✍️ **Interests:** 📲 App development, 🎮 VR/AR, and 🏚️ property refurbishment. ✨✨✨
 
 ### 🛠️ Tools & Technologies
 
-- 📊 **Skills:** 🛠️ Kotlin, Dart, Flutter, Java, Golang, C++, Firebase, AWS, and more.
-  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Prolog](https://img.shields.io/badge/Prolog-%23E0004D.svg?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow)
 
 ---
 
@@ -66,7 +69,7 @@ Welcome to my GitHub profile! I'm a passionate 💻 software developer who loves
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeeIn-Park&layout=compact&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeeIn-Park&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeeinhere&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JeeIn-Park&theme=radical)
 
