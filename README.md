@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I'm a passionate 💻 software developer who loves
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeeIn-Park&layout=compact&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeeinhere&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeeIn-Park&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JeeIn-Park&theme=radical)
 
