@@ -1,4 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Jeein Park 👋
+
+Welcome to my GitHub profile! I'm a passionate software developer who loves creating innovative applications and solving complex problems. Here's a bit about me:
+
+---
+
+## 🔧 **About Me**
+
+- 🔎 **Exploring:** Android and Flutter development, backend systems, and AI/ML applications.
+- 📊 **Skills:** Kotlin, Dart, Flutter, Java, Golang, C++, Firebase, AWS, and more.
+- 🚀 **Currently Working On:** Building a portfolio website and a Discord bot with computer vision.
+- ⚛️ **Goal:** Combine creativity and tech to build impactful software solutions.
+- ✍️ **Interests:** App development, VR/AR, and property refurbishment.
+
+---
+
+## 🌟 **Highlighted Projects**
+
+### 🏦 [AI Maze Solver](https://github.com/your-repo-link)
+- **Description:** An AI-powered maze solver using Prolog and advanced pathfinding algorithms.
+- **Features:** Optimized runtime by 25%, multi-agent architecture, and scalable for dynamic grids.
+
+### 📚 [Medical Revision Tool](https://github.com/your-repo-link)
+- **Description:** An interactive Flutter-based app with a spaced repetition algorithm for flashcard learning.
+- **Features:** User authentication via Firebase and real-time data sync.
+
+### 🏢 [Workout Monitoring App](https://github.com/your-repo-link)
+- **Description:** Android app with visual fitness analytics to track workouts effectively.
+- **Features:** MVVM architecture, market research-driven design, and device compatibility testing.
+
+---
+
+## 🔗 **Links & Contact**
+
+- 🔗 [Portfolio Website](#) *(Coming Soon)*
+- 🔓 [LinkedIn](https://linkedin.com/in/jeeinhere)
+- 📧 Email: [jeeinhere@gmail.com](mailto:jeeinhere@gmail.com)
+
+---
+
+## 📊 **GitHub Stats**
+
+![Jeein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeeinhere&show_icons=true&theme=radical)
+
+---
+
+Feel free to explore my repositories and reach out if you'd like to collaborate on something exciting!
+
 
 <!--
 **JeeIn-Park/JeeIn-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
