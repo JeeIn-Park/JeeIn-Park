@@ -1,6 +1,6 @@
 # Hi there, I'm Jeein Park 👋
 
-Welcome to my GitHub profile! I'm a passionate 💻 software developer who loves creating ✨ innovative applications and solving 🔍 complex problems. Here's a bit about me: 🌟🌟🌟
+Here's a bit about me: 🌟🌟🌟
 
 ---
 
