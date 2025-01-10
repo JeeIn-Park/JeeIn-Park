@@ -56,17 +56,10 @@ Here's a bit about me: 🌟🌟🌟
 
 ---
 
-## 🔗 **Links & Contact** 🔗🔗🔗
-
-- 🔗 [Portfolio Website](#) *(Coming Soon)*
-- 🔓 [LinkedIn](https://linkedin.com/in/jeeinhere)
-- 📧 Email: [jeeinhere@gmail.com](mailto:jeeinhere@gmail.com)
-
----
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+---
 
 ## 📊 **GitHub Stats** 🌟🌟🌟
 
@@ -80,7 +73,14 @@ Here's a bit about me: 🌟🌟🌟
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JeeIn-Park&theme=radical)
 
+
 ---
+
+## 🔗 **Links & Contact** 🔗🔗🔗
+
+- 🔗 [Portfolio Website](#) *(Coming Soon)*
+- 🔓 [LinkedIn](https://www.linkedin.com/in/jeein-park-36498829a)
+- 📧 Email: [1700pji@naver.com](mailto:1700pji@naver.com)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on something exciting! 🎉🎉🎉
 
