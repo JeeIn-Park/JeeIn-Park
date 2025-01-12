@@ -59,7 +59,6 @@ I’ve always been the one people turn to and say,
 ![IntelliJ](https://img.shields.io/badge/intelliJ-%23f01d67.svg?style=for-the-badge&logo=intellijidea&logoColor=7d99f0)
 ![Android Studio](https://img.shields.io/badge/Android%20studio-%230d89e0.svg?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
 
----
 
 <br><br><br>
 
