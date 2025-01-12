@@ -6,11 +6,11 @@ I’ve always been the one people turn to and say,
 
 <br>
 
-📱 ** Invention Enthusiast ** – I get really excited when I implement ideas, especially those that can improve human life. It brings me immense happiness. The reason I studied computer science was to achieve my vision of enhancing human life through my ideas and software development.
+📱 **Invention Enthusiast** – I get really excited when I implement ideas, especially those that can improve human life. It brings me immense happiness. The reason I studied computer science was to achieve my vision of enhancing human life through my ideas and software development.
 
-🌍 ** Global Perspective ** – Living in different countries has broadened my perspective and shaped how I approach design and problem-solving, always focusing on usability and innovation.
+🌍 **Global Perspective** – Living in different countries has broadened my perspective and shaped how I approach design and problem-solving, always focusing on usability and innovation.
 
-🛠 ** Always Improving ** – I don’t settle for “good enough.” Whether it’s refining app features or redesigning my personal tools, I’m constantly iterating. I continue working on projects, implementing ideas, and making small improvements to user experiences every day. I believe in consistency.
+🛠 **Always Improving** – I don’t settle for “good enough.” Whether it’s refining app features or redesigning my personal tools, I’m constantly iterating. I continue working on projects, implementing ideas, and making small improvements to user experiences every day. I believe in consistency.
 
 <br>
 
