@@ -21,9 +21,12 @@ I’ve always been the one people turn to and say,
 
 🛠 **Always Improving** – I don’t settle for “good enough.” Whether it’s refining app features or redesigning my personal tools, I’m constantly iterating. I continue working on projects, implementing ideas, and making small improvements to user experiences every day. I believe in consistency.
 
-<br>
+<br> 
 
-<br>
+<p align="right">
+    <img src="https://media.giphy.com/media/KRfBgRKoKuXno1Sb4D/giphy.gif" width="20%">
+    <img src="https://media.giphy.com/media/zQmknt9jBDb2LVbYfy/giphy.gif" width="12%"> 
+</p >
 
 ## Tech Stacks
 
