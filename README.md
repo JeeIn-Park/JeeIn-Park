@@ -59,4 +59,15 @@ I’ve always been the one people turn to and say,
 ![IntelliJ](https://img.shields.io/badge/intelliJ-%23f01d67.svg?style=for-the-badge&logo=intellijidea&logoColor=7d99f0)
 ![Android Studio](https://img.shields.io/badge/Android%20studio-%230d89e0.svg?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
 
+---
+
+<br><br><br>
+
+## 📬 Contact Me
+
+<p align = "center"> 
+    <img src="https://media.giphy.com/media/zQmknt9jBDb2LVbYfy/giphy.gif" width="13%" style="vertical-align: middle; margin-right: 10px;"> 
+    <img src="https://media.giphy.com/media/KRfBgRKoKuXno1Sb4D/giphy.gif" width="20%" style="vertical-align: middle; margin-right: 10px;"> 
+</p>
+
 
