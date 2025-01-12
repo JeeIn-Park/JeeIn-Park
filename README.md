@@ -70,4 +70,23 @@ I’ve always been the one people turn to and say,
     <img src="https://media.giphy.com/media/KRfBgRKoKuXno1Sb4D/giphy.gif" width="20%" style="vertical-align: middle; margin-right: 10px;"> 
 </p>
 
+<p align="center">
+  <a href="mailto:1700pji@naver.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/jeein-park-36498829a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    
+  <a href="https://www.instagram.com/pji.27" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  
+  <a href="https://www.facebook.com/profile.php?id=100010788885611" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+
+  </a>
+</p>
+
 
