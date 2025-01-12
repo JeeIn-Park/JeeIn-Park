@@ -27,8 +27,6 @@ I’ve always been the one people turn to and say,
 
 ## Tech Stacks
 
-<br>
-
 ### 💻 Languages & Frameworks 
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&labelColor=3ea1b5&fontWeight=bold)
