@@ -9,8 +9,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x5/ED8B00/ED8B00" alt="Orange Divider">
+  <img src="https://via.placeholder.com/1000x5/FF5733/FFC300" alt="Gradient Divider">
 </p>
+
 
 
 <!-- Divider using a GIF -->
