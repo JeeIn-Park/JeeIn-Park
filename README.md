@@ -1,3 +1,26 @@
+Having strong enough technical skills to implement new features? That’s basic.
+But aren’t we trying to find something innovative? Something brand-new?
+What I bring to the table is unique, unlike anything others can offer.
+I’ve always been the one people turn to and say, 
+> “Okay, this is your job now—you’re the most creative one. Find a way to make it work.”
+
+<br>
+
+📱 ** Invention Enthusiast ** – I get really excited when I implement ideas, especially those that can improve human life. It brings me immense happiness. The reason I studied computer science was to achieve my vision of enhancing human life through my ideas and software development.
+
+🌍 ** Global Perspective ** – Living in different countries has broadened my perspective and shaped how I approach design and problem-solving, always focusing on usability and innovation.
+
+🛠 ** Always Improving ** – I don’t settle for “good enough.” Whether it’s refining app features or redesigning my personal tools, I’m constantly iterating. I continue working on projects, implementing ideas, and making small improvements to user experiences every day. I believe in consistency.
+
+<br>
+
+---
+
+<br>
+
+## Tech Stacks
+
+<br>
 
 ### 💻 Languages & Frameworks 
 
