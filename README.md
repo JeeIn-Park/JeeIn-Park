@@ -8,6 +8,11 @@
   / Jeein Park! 👋
 </h1>
 
+<p align="center">
+  <img src="https://via.placeholder.com/1000x5/ED8B00/ED8B00" alt="Orange Divider">
+</p>
+
+
 <!-- Divider using a GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/cNTobeyDPsv9xUeAOR/giphy.gif" width="100%" height="30">
