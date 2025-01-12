@@ -23,10 +23,6 @@ I’ve always been the one people turn to and say,
 
 <br> 
 
-<p align="right">
-    <img src="https://media.giphy.com/media/KRfBgRKoKuXno1Sb4D/giphy.gif" width="20%">
-    <img src="https://media.giphy.com/media/zQmknt9jBDb2LVbYfy/giphy.gif" width="12%"> 
-</p >
 
 ## Tech Stacks
 
