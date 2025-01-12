@@ -10,7 +10,7 @@
 
 <!-- Divider using a GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LeCdp9QGW3Oe1t9T0H/giphy.gif" width="100%" height="50">
+  <img src="https://media.giphy.com/media/DqD8YgHGhJmSpWbV9a/giphy.gif" width="100%" height="50">
 </p>
 
 <!-- Text and Image Table -->
