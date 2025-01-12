@@ -1,3 +1,12 @@
+<h1 align="center">
+  Hiya, I'm 
+  <img src="https://media.giphy.com/media/oqCQ8EeERIY6NytEDm/giphy.gif" width="70"> 
+  <img src="https://media.giphy.com/media/TOLuAEdmOj1dTIKNkB/giphy.gif" width="70"> 
+  <img src="https://media.giphy.com/media/TOLuAEdmOj1dTIKNkB/giphy.gif" width="70"> 
+  <img src="https://media.giphy.com/media/EnOZd2heOezVbBXWlJ/giphy.gif" width="70"> 
+  / Jeein Park! 👋
+</h1>
+
 Having strong enough technical skills to implement new features? That’s basic.
 But aren’t we trying to find something innovative? Something brand-new?
 What I bring to the table is unique, unlike anything others can offer.
@@ -13,8 +22,6 @@ I’ve always been the one people turn to and say,
 🛠 **Always Improving** – I don’t settle for “good enough.” Whether it’s refining app features or redesigning my personal tools, I’m constantly iterating. I continue working on projects, implementing ideas, and making small improvements to user experiences every day. I believe in consistency.
 
 <br>
-
----
 
 <br>
 
