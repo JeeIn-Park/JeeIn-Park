@@ -7,6 +7,9 @@
   / Jeein Park! 👋
 </h1>
 
+#My goal is to change the world by designing intuitive and intelligent solutions that reduce complexity and improve daily workflows!
+
+
 Having strong enough technical skills to implement new features? That’s basic.
 But aren’t we trying to find something innovative? Something brand-new?
 What I bring to the table is unique, unlike anything others can offer.
